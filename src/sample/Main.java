@@ -26,6 +26,9 @@ public class Main extends Application {
     TextArea output;
     CheckBox unoptimized;
 
+
+//This line is changed by me
+
     @FXML
 
     @Override
