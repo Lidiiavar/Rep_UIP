@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib">
+    <ANNOTATIONS>
+      <root url="file://C:/Program Files/Java/javafx-sdk-16" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/javafx-sdk-16" />
+      <root url="file://C:/Program Files/Java/javafx-sdk-16/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Program Files/Java/javafx-sdk-16" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/Program Files/Java/javafx-sdk-16" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/javafx-sdk-16" />
+      <root url="file://C:/Program Files/Java/javafx-sdk-16/lib" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/javafx-sdk-16" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/javafx-sdk-16" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://C:/Program Files/Java/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

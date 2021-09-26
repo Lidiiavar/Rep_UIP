@@ -1,0 +1,145 @@
+
+b
+java:S2095„"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(§Í±
+n	java:S127ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(´™ß×
+n	java:S127ş"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆÙí¡
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¦ò 
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±·áÅüÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¦ÀÙüÿÿÿÿ
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µœ‡Î
+e	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åùæ
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÇª‘
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈœÆ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÕîıÿÿÿÿ
+g	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·õ„•
+g	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·õ„•
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÑŠúÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÑŠúÿÿÿÿ
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Û˜
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Û˜
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‰è¢øÿÿÿÿ
+>
+java:S16045"(Make this anonymous inner class a lambda(€¥ùì
+>
+java:S1604<"(Make this anonymous inner class a lambda(¨Ó¤¸
+C
+java:S1604M"(Make this anonymous inner class a lambda(éÓğÒşÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda(ïÅğ›ûÿÿÿÿ
+>
+java:S1604Œ"(Make this anonymous inner class a lambda(ù½ä>
+>
+java:S1604°"(Make this anonymous inner class a lambda(ù½ä>
+>
+java:S1604¶"(Make this anonymous inner class a lambda(ù½ä>
+>
+java:S1604¼"(Make this anonymous inner class a lambda(ù½ä>
+g
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎµÑúÿÿÿÿ
+g
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎµÑúÿÿÿÿ
+g
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º•ƒ¹şÿÿÿÿ
+:
+java:S1659"Declare "A" on a separate line.(ßÎµÑúÿÿÿÿ
+:
+java:S1659"Declare "B" on a separate line.(ßÎµÑúÿÿÿÿ
+;
+java:S1659" Declare "n1" on a separate line.(º•ƒ¹şÿÿÿÿ
+;
+java:S1659" Declare "n2" on a separate line.(º•ƒ¹şÿÿÿÿ
+?
+java:S1659")Declare "upper_limit" on a separate line.(š…ÿª
+@
+java:S1659"*Declare "isBGenerated" on a separate line.(åİœƒ
+:
+java:S1659"$Declare "isNSet" on a separate line.(åİœƒ
+D
+java:S1659".Declare "allowUnoptimized" on a separate line.(åİœƒ
+i	java:S116"TRename this field "low_limit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š…ÿª
+k	java:S116"VRename this field "upper_limit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š…ÿª
+n	java:S116"YRename this field "MessageBuilder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™è 
+E
+java:S6212&"/Declare this local variable with "var" instead.(°¡Ñ
+L
+java:S26968"6Make the enclosing method "static" or remove this set.(äÇ‹ë
+E
+java:S6212D"/Declare this local variable with "var" instead.(èßÔˆ
+L
+java:S2696Q"6Make the enclosing method "static" or remove this set.(¥­Ş¿
+L
+java:S2696R"6Make the enclosing method "static" or remove this set.(¿ıÊ¸
+Q
+java:S2696T"6Make the enclosing method "static" or remove this set.(ºÀàúÿÿÿÿ
+L
+java:S2696U"6Make the enclosing method "static" or remove this set.(ß©Î
+Q
+java:S2696X"6Make the enclosing method "static" or remove this set.(¿µª‰ıÿÿÿÿ
+Q
+java:S2696["6Make the enclosing method "static" or remove this set.(ü¨ÛÛÿÿÿÿÿ
+E
+java:S6212\"/Declare this local variable with "var" instead.(èßÔˆ
+L
+java:S2696a"6Make the enclosing method "static" or remove this set.(ĞÉÇ­
+L
+java:S2696b"6Make the enclosing method "static" or remove this set.(ÉŠÀÑ
+Q
+java:S2696s"6Make the enclosing method "static" or remove this set.(Æã€àÿÿÿÿÿ
+L
+java:S2696u"6Make the enclosing method "static" or remove this set.(Ò˜ï
+E
+java:S6212y"/Declare this local variable with "var" instead.(èßÔˆ
+Q
+java:S2696}"6Make the enclosing method "static" or remove this set.(ªµ”±ÿÿÿÿÿ
+F
+java:S6212„"/Declare this local variable with "var" instead.(«ñ®©
+M
+java:S2696†"6Make the enclosing method "static" or remove this set.(ÿ¡è¥
+R
+java:S2696‡"6Make the enclosing method "static" or remove this set.(Ú— Òıÿÿÿÿ
+F
+java:S6212‹"/Declare this local variable with "var" instead.(ªëÈœ
+R
+java:S2696“"6Make the enclosing method "static" or remove this set.(²òØ·ûÿÿÿÿ
+M
+java:S2696”"6Make the enclosing method "static" or remove this set.(­çã·
+R
+java:S2696–"6Make the enclosing method "static" or remove this set.(²òØ·ûÿÿÿÿ
+L
+java:S2696—"6Make the enclosing method "static" or remove this set.(ÛÚœ>
+c	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÍÄc
+K
+java:S6212Î"/Declare this local variable with "var" instead.(£º¾âüÿÿÿÿ
+M
+java:S2696Ğ"6Make the enclosing method "static" or remove this set.(ñ´úİ
+@
+java:S2140Ğ")Use "java.util.Random.nextInt()" instead.(ñ´úİ
+i	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëãµ¨üÿÿÿÿ
+K
+java:S6212Ö"/Declare this local variable with "var" instead.(£º¾âüÿÿÿÿ
+M
+java:S2696×"6Make the enclosing method "static" or remove this set.(ÚÁ¿ã
+K
+java:S6212İ"/Declare this local variable with "var" instead.(É¶ü¿şÿÿÿÿ
+F
+java:S6212Ş"/Declare this local variable with "var" instead.(¾é§
+R
+java:S2696ß"6Make the enclosing method "static" or remove this set.(ÎÔƒ›ıÿÿÿÿ
+F
+java:S6212à"/Declare this local variable with "var" instead.(‡ˆö®
+M
+java:S2696á"6Make the enclosing method "static" or remove this set.(¢Ó·Ë
+i	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÑŠúÿÿÿÿ
+K
+java:S6212è"/Declare this local variable with "var" instead.(É¶ü¿şÿÿÿÿ
+M
+java:S2696ê"6Make the enclosing method "static" or remove this set.(šÍ›Ê
+d	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Û˜
+M
+java:S2696ò"6Make the enclosing method "static" or remove this set.(šÍ›Ê
+T
+java:S1854ˆ"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+K
+java:S6212ø"/Declare this local variable with "var" instead.(á‰–øÿÿÿÿ
+E
+java:S6212„"/Declare this local variable with "var" instead.(§Í±
